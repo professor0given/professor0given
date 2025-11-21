@@ -1,15 +1,25 @@
-### Hi there 👋
+👋 Hi, I'm Rohit Chauhan
 
-<!--
-**professor0given/professor0given** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Cloud Infrastructure projects using Microsoft Azure, Terraform, and CI/CD pipelines.
 
-Here are some ideas to get you started: -->
+🌱 I’m continuously learning and expanding my skills in Cloud Computing, DevOps, System & Network Administration. I hold a B.Tech in Computer Science and a Post-Graduate Diploma in Computer System Technology – Networking.
 
-- 🔭 I’m currently working on how to get started on Github.
-- 🌱 I’m currently learning computer system technology - Networking but I have also done my engineering in computer science and I am passionate about programming.
-- 🤔 I’m looking for help with how to initially get started.
-- 💬 Ask me about ...
-- 📫 How to reach me: rm7875929320@gmail.com
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I love to play basketball
+🧠 I have hands-on experience in network infrastructure design, troubleshooting, virtualisation (VMware/Hyper-V), Linux/Windows servers, Docker, Kubernetes fundamentals, and cloud platforms including Azure, AWS & GCP.
 
+🚀 I’m building beginner-friendly projects such as:
+
+Azure Web App Infrastructure with Terraform
+
+Automated CI/CD pipelines
+
+Full network design projects (routing, switching, VLANs, firewalls)
+
+🤝 I’m looking to collaborate on Cloud, DevOps, Infrastructure-as-Code, and Networking-related projects.
+
+💬 Ask me about Azure, Terraform, Networking, System Administration, Linux, CI/CD concepts, Infrastructure Design, and IT Support.
+
+📫 How to reach me: rm7875929320@gmail.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I can switch from debugging servers to playing basketball without dropping the ball! 🏀😄
